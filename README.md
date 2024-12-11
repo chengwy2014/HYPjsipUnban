@@ -1,0 +1,2 @@
+# HYPjsipUnban
+免费提供Hypixel服务器因使用加速IP被永久ban的解除（解封后转为7天或14天）
